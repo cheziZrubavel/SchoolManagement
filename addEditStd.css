@@ -1,0 +1,13 @@
+    ul {
+        list-style-type: none;
+    }
+    form {
+        box-sizing: border-box;
+        text-align: center;
+    }
+    .delete{
+        float: right;
+    }
+    .save {
+        float: left;
+    }

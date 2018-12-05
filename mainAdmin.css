@@ -1,0 +1,62 @@
+        body {
+            padding: 5px;
+            box-sizing: border-box;
+            overflow: hidden;
+            }
+
+        .administrators{
+            height: 500px;
+            width: 200px;
+            flex: 1;
+            margin: 15px;
+            border: 2px solid black;
+            padding: 5px;
+            overflow: auto;
+        
+        }
+        .Main{
+            height: 500px;
+            width: 200px;
+            flex: 2;
+            border: 2px solid black;
+            margin: 15px;
+            padding: 5px;
+        }    
+        .allcontainer{
+            display: flex;
+            box-sizing: border-box;
+        }
+        ul {
+        float: left;
+        list-style-type: none;
+        width: 200px;
+        }
+
+        li img {
+        float: left;
+        /* margin: 0 15px 0 0; */
+        }
+ 
+        li p {
+        font: 200 12px/1.5 Georgia, Times New Roman, serif;
+        }
+ 
+        li {
+        margin: 0;
+        padding: 0px;
+        overflow: auto;
+        }
+ 
+        li:hover {
+        background: #eee;
+        cursor: pointer;
+        }
+        h2 {
+            display: inline;
+        }
+        #top {
+            /* display: inline; */
+            float: right;
+            border: 2px solid black;
+            color: black;
+        }

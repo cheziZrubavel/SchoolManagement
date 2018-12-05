@@ -1,0 +1,22 @@
+header {
+    width: 100%;
+    text-align: left;
+    box-sizing: border-box;
+    height: 60px;
+    line-height: 30px;
+    border-bottom: 2px solid black;
+    padding-left: 30px;
+}
+body {
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+input{
+    padding: 5px;
+    width: 400px;
+    
+}  
+/* div{
+text-align: right;
+} */

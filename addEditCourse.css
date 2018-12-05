@@ -1,0 +1,14 @@
+form {
+    box-sizing: border-box;
+    text-align: center;
+}
+form > .delete{
+    float: right;
+}
+.save {
+    float: left;
+}
+textarea {
+    height: 100px;
+    width: 300px;
+}

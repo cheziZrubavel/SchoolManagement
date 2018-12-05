@@ -1,0 +1,13 @@
+h1 {
+    display: inline;
+}
+img {
+    /* display: inline; */
+    /* flex: 1; */
+    float: left;
+}
+.edit {
+    float: right;
+    border: 2px solid black;
+    color: black;
+}
